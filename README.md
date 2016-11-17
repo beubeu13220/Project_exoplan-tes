@@ -16,7 +16,10 @@
 Une fois le job lancé, la courbe s'affichera dans le navigateur internet par défaut. 
 De plus, cette exécution génére une fichier .html dans le dossier où vous exécuter la commande ./spark-submit.
 
+
 > Le script du job sur les TP 4/5 contient une variable *path* pour définir un chemin générique pour l'exéctution du job (où trouver la base de donnée et où sauvegarder le modèl)
+
+
 
 > Le script du job sur les TP 2/3 ne contient pas de variable *path* 
  
